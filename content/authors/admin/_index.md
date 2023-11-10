@@ -73,5 +73,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 Hi! I am a Predoctoral Research Fellow at Microsoft Research (MSR), where I am working with [Dr. Amit Sharma](https://www.amitsharma.in/). 
 {style="text-align: justify;"}
