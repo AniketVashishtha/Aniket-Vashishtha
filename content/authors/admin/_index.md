@@ -12,7 +12,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,5 +73,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi! I am a Predoctoral Research Fellow at Microsoft Research (MSR), where I am working with Dr. Amit Sharma. 
+Hi! I am a Predoctoral Research Fellow at Microsoft Research (MSR), where I am working with [Dr. Amit Sharma](https://www.amitsharma.in/). 
 {style="text-align: justify;"}
